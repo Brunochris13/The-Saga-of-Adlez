@@ -26,7 +26,7 @@ The game must include a database to persist information between runs of the game
 Firstly we had to decide on the type of Video Game we would produce and what kind of software architecture we would implement. We decided to create a top-down action-adventure game, similar to The Legend of Zelda and Enter the Gungeon, where the players could traverse through a dungeon, killing enemies and getting keys to unlock the next room, until they reached the boss in the final room.
 The Architecture we followed was a Component Architecture, so we kept our code as modular as possible, therefore it would be much easier for people to work together and combine our code later on.
 
-There is more information about the game in the **Full Report.pdf**, if you would like to read more about it.
+There is more information about the game in the **Full Report.pdf**, if you would like to read more about it OR you can watch **underwurlde demo.mp4**.
 
 The part of the project I worked on from the start till the end was the Networking part. My job was to find a way to allow multiple players to connect to a host and play together. This was a difficult task, as it was the first time I worked with Java Networking, but I think the end result was so good, that even I was impressed.
 
